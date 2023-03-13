@@ -56,7 +56,7 @@ const GroupList = () => {
         <div className="float-end">
           <Button color="success" tag={Link} to="/characters/new">Add Character</Button>
         </div>
-        <h3>My JUG Tour</h3>
+        <h3>Mortal Kombat 11 Roaster</h3>
         <Table className="mt-4">
           <thead>
           <tr>
